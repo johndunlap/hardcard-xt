@@ -1,4 +1,4 @@
-# Hardcard XT-IDE
+# Hardcard XT
 This is a copy of the excellent [Glitch Works XT-IDE](https://github.com/glitchwrks/xt_ide) which adds a few minor but important features which make building an approximation of a vintage hardcard, based on XT-IDE, much simpler.
 
 TODO:
